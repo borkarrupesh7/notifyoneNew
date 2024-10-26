@@ -1,9 +1,9 @@
 [submodule "notifyone-gateway"]
 	path = notifyone-gateway
-	url = https://github.com/borkarrupesh7/notifyone-gateway
+	url = https://github.com/borkarrupesh7/notifyone-core.git
 [submodule "notifyone-core"]
 	path = notifyone-core
-	url = https://github.com/borkarrupesh7/notifyone-core
+	url = https://github.com/borkarrupesh7/notifyone-core.git
 [submodule "notifyone-handler"]
 	path = notifyone-handler
-	url = https://github.com/borkarrupesh7/notifyone-handler 
+	url = https://github.com/borkarrupesh7/notifyone-handler.git
